@@ -27,3 +27,8 @@ svg of bronze inscriptions on zdic.net to font (ttf and others)
 - [ ] 统一字体风格及其他
 - [ ] 优化字体锚点及其他
 - [ ] 根據金文字典逐字校對
+
+
+# 参考资料
+
+- [古文字電腦字型](http://web.hku.hk/~jwilam/chinese/font.htm)
