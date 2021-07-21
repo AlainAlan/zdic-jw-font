@@ -15,8 +15,9 @@ svg of bronze inscriptions on zdic.net to font (ttf and others)
 
 # 还没搞
 
-- [ ] 爬完全部字符（約六千）
+- [x] 爬完全部字符（約六千）
 - [x] 输出字体
+- [x] 补充爬虫GB2312
 - [ ] 补缺（通假、异体）
 - [x] 适配简体字（无歧义情况下）
 - [ ] 進一步適配簡體字（已適配部分）
